@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1614653741 source:d:\c程序设计\隐私管理系统\main.c
+	"myList.h"
+
+1614651177 d:\c程序设计\隐私管理系统\mylist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<io.h>
+	<direct.h>
+
+1614846952 source:c:\users\17375\desktop\隐私管理系统\隐私管理系统\main.c
+	"myList.h"
+
+1614754971 c:\users\17375\desktop\隐私管理系统\隐私管理系统\mylist.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
